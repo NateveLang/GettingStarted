@@ -1,2 +1,3 @@
-# GettingStarted
+# Getting Started
 Nateve landing repository
+
